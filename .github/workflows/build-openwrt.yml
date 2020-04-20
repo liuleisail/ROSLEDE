@@ -23,7 +23,7 @@ on:
 
 
 env:
-  REPO_URL: https://github.com/coolsnowwolf/lede
+  REPO_URL: git@github.com:liuleisail/openwrt-1.git
   REPO_BRANCH: master
   CONFIG_FILE: .config
   DIY_SH: diy.sh
