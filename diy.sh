@@ -7,6 +7,6 @@
 #=================================================
 # Modify default IP
 sed -i 's/192.168.1.1/192.168.2.3/g' package/base-files/files/bin/config_generate
-sed -i 's/\"#src-git\"/\"src-git\"/g' ./feeds.conf.default
+sed -i '5s/#//' feeds.conf.default
 ./scripts/feeds update -a
 ./scripts/feeds install -a
