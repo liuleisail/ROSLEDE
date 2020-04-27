@@ -4,8 +4,6 @@
 CONFIG_TARGET_ROOTFS_PARTSIZE=300
 
 
-增加docker支持
-
 diskman 
 
 plus+ 
