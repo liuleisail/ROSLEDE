@@ -4,8 +4,6 @@
 CONFIG_TARGET_ROOTFS_PARTSIZE=300
 
 
-diskman 
-
 plus+ 
 
 kms 
@@ -13,7 +11,5 @@ kms
 adbyby-plus 
 
 commands 
-
-vsftp 
 
 wol
