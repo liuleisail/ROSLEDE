@@ -10,6 +10,6 @@ kms
 
 adbyby-plus 
 
-commands 
+netdata
 
 wol
